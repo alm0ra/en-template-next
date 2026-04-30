@@ -17,8 +17,8 @@ const { siteUrl } = getPlatformContext()
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: "Noqte — Build your professional website",
-    template: "%s | Noqte",
+    default: "Fardino — Build your professional website",
+    template: "%s | Fardino",
   },
   description:
     "Build your professional website and app with AI — no coding required.",

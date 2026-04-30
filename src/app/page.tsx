@@ -32,7 +32,7 @@ export default function HomePage() {
 
         {/* Header */}
         <header className="flex items-center justify-between py-6">
-          <span className="text-sm text-muted-foreground">noqte-template</span>
+          <span className="text-sm text-muted-foreground">fardino-template</span>
         </header>
 
         {/* Hero */}
@@ -41,7 +41,7 @@ export default function HomePage() {
             <div className="space-y-3">
               <Badge variant="secondary" className="font-normal">v2.0</Badge>
               <h1 className="text-4xl font-bold tracking-tight sm:text-5xl">
-                Noqte
+                Fardino
               </h1>
               <p className="text-lg text-muted-foreground leading-relaxed">
                 Edit this page and start building your project.
